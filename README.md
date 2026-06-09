@@ -1,0 +1,2 @@
+# EstrategiaICTCRT
+Proyecto para estratec
